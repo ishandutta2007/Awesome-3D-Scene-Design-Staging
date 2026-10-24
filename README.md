@@ -145,7 +145,7 @@ Contributions from the 3D visualization, architectural design, and open-source c
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-staging-tool`
-3. 📝 **Add or update entries**: Ensure factual accuracy, links to official documentation or source code, verified pricing/tiers, and GitHub Stars_Badges (`style=social&color=white`).
+3. 📝 **Add or update entries**: Ensure factual accuracy, links to official documentation or source code, verified pricing/tiers, and GitHub_Stars_Badges (`style=social&color=white`).
 4. 🚀 **Commit your changes**: `git commit -m 'Add ToolName to 3D Scene Design & Staging'`
 5. 📬 **Open a Pull Request** with a concise description of why the tool is beneficial to 3D designers and staging artists.
 
