@@ -72,42 +72,42 @@ All pricing and free tier terms reflect current verified manufacturer offerings 
 
 The open-source 3D staging ecosystem provides self-hosted, vendor-lock-free alternatives for production scene layout, physical lighting, camera sequencing, and asset baking. 
 
-Repositories are **ranked in descending order by GitHub Stars**:
+Repositories are **ranked in descending order by GitHub_Stars**:
 
-1. **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
+1. **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
    🎮 **The leading open-source 2D/3D engine and real-time scene compositor.** Features a node-based spatial tree, advanced 3D viewport with interactive gizmos, real-time Forward+ and mobile Vulkan renderers, SDFGI (Signed Distance Field Global Illumination), Volumetric Fog, and VoxelGI. Widely adopted for interactive real-time staging, interactive architectural walkthroughs, and spatial product presentations.
 
-2. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+2. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
    📐 **Parametric open-source 3D CAD modeler.** Designed for mechanical engineering, product design, and BIM architectural scenes requiring millimeter precision. Features dedicated Render and TechDraw workbenches capable of exporting scene geometry directly into Raytracing engines (LuxCore, POV-Ray, Blender Cycles) for dimensioned technical staging.
 
-3. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+3. **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
    🎨 **The undisputed flagship open-source 3D production suite.** Provides complete scene assembly, physics simulation, multi-pass compositing, and rendering via **Cycles** (unbiased, physically based path tracer) and **EEVEE Next** (real-time GPU rasterizer). A fully unrestricted, permanently free alternative to Cinema 4D, 3ds Max, and Maya for high-end studio lighting, product staging, and architectural visualization.
 
-4. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+4. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    🔬 **Modern open-source library for 3D data processing, scene reconstruction, and spatial visualization.** Offers rapid C++ and Python APIs for point cloud alignment, mesh editing, physically based rendering (PBR), and interactive 3D scene visualizers. Crucial for robotics, autonomous vehicle simulation scenes, and photogrammetry staging.
 
-5. **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+5. **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
    📸 **End-to-end framework for Neural Radiance Fields (NeRF) and 3D Gaussian Splatting scene staging.** Features an interactive real-time web visualizer allowing creators to stage camera flythrough trajectories, tune near/far planes, adjust lighting exposure, and export high-resolution cinematic video renders from real-world captured spaces.
 
-6. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
+6. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)  
    💻 **The programmers' solid 3D CAD modeler.** Employs a pure functional code-based approach (CSG - Constructive Solid Geometry) to compile parametric 3D parts and staging rigs. Ideal for algorithmic scene generation, repeatable product assembly mockups, and modular scene framing.
 
-7. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+7. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
    🖌️ **Stand-alone open-source 3D PBR texture painting software.** Powered by the ArmorCore engine with hardware-accelerated ray tracing viewport previews. Enables visualization artists to texture, inspect, and bake multi-material assets before dropping them directly into Blender or Godot scene staging layouts.
 
-8. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers)  
+8. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub_Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers)  
    ⚡ **Rapid 3D modeling and blockout staging software.** Enables designers to create watertight 3D base meshes, auto-generate UVs, and establish scene scale and character proportions within minutes, accelerating initial staging iterations before final detail sculpture.
 
-9. **[appleseed](https://github.com/appleseedhq/appleseed)** [![GitHub Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)  
+9. **[appleseed](https://github.com/appleseedhq/appleseed)** [![GitHub_Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)  
    🍎 **Production-oriented, open-source physically based global illumination rendering engine.** Tailored for animation, architectural visualization, and VFX studios. Integrates fully with Blender and Maya, featuring modern OSL (Open Shading Language) support, advanced spectral light transport, and depth-of-field staging controls.
 
-10. **[PlayCanvas Editor](https://github.com/playcanvas/editor)** [![GitHub Stars](https://img.shields.io/github/stars/playcanvas/editor?style=social&color=white)](https://github.com/playcanvas/editor/stargazers)  
+10. **[PlayCanvas Editor](https://github.com/playcanvas/editor)** [![GitHub_Stars](https://img.shields.io/github/stars/playcanvas/editor?style=social&color=white)](https://github.com/playcanvas/editor/stargazers)  
     🌐 **Visual browser-based WebGL/WebGPU 3D scene editor.** Offers collaborative scene assembly, real-time lighting previews, entity-component transforms, hierarchy inspector, and instant publishing for interactive web 3D product configurations.
 
-11. **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers)  
+11. **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub_Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers)  
     💎 **Unbiased, physically based ray tracing and spectral rendering engine.** Renowned for unmatched architectural glass rendering, caustics simulation, and photon mapping. Delivers plug-and-play staging workflows through its dedicated Blender-LuxCore addon.
 
-12. **[CozyClay](https://github.com/NomaDamas/CozyClay)** [![GitHub Stars](https://img.shields.io/github/stars/NomaDamas/CozyClay?style=social&color=white)](https://github.com/NomaDamas/CozyClay/stargazers)  
+12. **[CozyClay](https://github.com/NomaDamas/CozyClay)** [![GitHub_Stars](https://img.shields.io/github/stars/NomaDamas/CozyClay?style=social&color=white)](https://github.com/NomaDamas/CozyClay/stargazers)  
     🎭 **Lightweight browser-based 3D staging and character posing studio.** Built with Three.js and React Three Fiber. Features W/E/R 3D gizmo transforms, camera fly controls (WASD/QE), plan-view staging grids, timeline prompt sequencing, and optional local AI motion generation via ARDY.
 
 ---
@@ -145,7 +145,7 @@ Contributions from the 3D visualization, architectural design, and open-source c
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-staging-tool`
-3. 📝 **Add or update entries**: Ensure factual accuracy, links to official documentation or source code, verified pricing/tiers, and GitHub star badges (`style=social&color=white`).
+3. 📝 **Add or update entries**: Ensure factual accuracy, links to official documentation or source code, verified pricing/tiers, and GitHub Stars_Badges (`style=social&color=white`).
 4. 🚀 **Commit your changes**: `git commit -m 'Add ToolName to 3D Scene Design & Staging'`
 5. 📬 **Open a Pull Request** with a concise description of why the tool is beneficial to 3D designers and staging artists.
 
